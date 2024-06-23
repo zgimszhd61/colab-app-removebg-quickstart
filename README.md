@@ -56,6 +56,11 @@ files.download("output.png")
 
 需要注意的是,虽然这个方法在大多数情况下效果不错,但对于复杂背景或边界模糊的图片,可能还需要进行一些微调或使用更高级的技术。如果您需要处理大量图片或追求更精确的结果,可能需要考虑使用更专业的图像分割模型,如DeepLabV3[5]。
 
+## 实验结果
+ - 去人像背景图.
+<img width="1138" alt="image" src="https://github.com/zgimszhd61/colab-app-removebg-quickstart/assets/114722053/7b4ef58e-3ee0-4571-94ea-87fba676d51e">
+
+
 Citations:
 [1] https://github.com/topics/background-removal
 [2] https://www.youtube.com/watch?v=d_RLmyTv1HA
